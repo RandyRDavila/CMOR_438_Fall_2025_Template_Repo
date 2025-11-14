@@ -20,7 +20,7 @@ train_test_split
 train_val_test_split
     Split arrays or matrices into train, validation, and test subsets.
 """
-#TODO Turn this script into a module
+# TODO Turn this script into a module
 
 from __future__ import annotations
 
